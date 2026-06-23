@@ -1,0 +1,12 @@
+[gd_scene format=3 uid="uid://dpi0hcpvl1k4k"]
+
+[ext_resource type="Texture2D" uid="uid://dcoldadefawha" path="res://icon.svg" id="1_l37un"]
+
+[node name="StatusIndicator" type="StatusIndicator" unique_id=1481440950]
+icon = ExtResource("1_l37un")
+
+[node name="Node2D" type="Node2D" parent="." unique_id=1116390374]
+
+[node name="Timer" type="Timer" parent="Node2D" unique_id=1573028136]
+
+[node name="Timer2" type="Timer" parent="Node2D" unique_id=851425876]
